@@ -73,6 +73,7 @@ Android device, or open in Android Studio and run.
 - Crowdless project page: https://www.linkedin.com/company/crowdlessapp/
 - AI Hackathon 2026 winners (organizer's post): https://www.linkedin.com/posts/aihackathon2026-opentrack-innovationecosystem-ugcPost-7436487613802381312
 - Cassini Hackathon Greece 2025 European-final recap (mentor George Mendrinos): https://www.linkedin.com/posts/georgemendrinos_yesterday-was-the-european-final-the-team-ugcPost-7394692583706468352
+- Prior year of the AI ΟΠΑ Hackathon series (different team makeup, different challenge, didn't win): https://github.com/AlexTuring010/novibet-clone
 
 ## License
 
